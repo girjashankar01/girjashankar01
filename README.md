@@ -1,22 +1,29 @@
-```console
-girja@github:~$ whoami
-Girja Shankar — BTech CSE @ BMSIT, Bengaluru
+<img src="./assets/banner.webp" alt="A hooded traveler holds a lantern above a misty valley under a pale moon.">
 
-girja@github:~$ cat stack.txt
-languages : C++, C, Python, JavaScript, TypeScript
-frontend  : React, React Native (Expo), Tailwind CSS, Vite, HTML5, CSS
-backend   : Node.js, Express.js, FastAPI, Socket.io, JWT auth
-databases : PostgreSQL, PostGIS, Supabase, ChromaDB
-ai/ml     : Ollama (local LLMs), LLM APIs, NLP embeddings, Babel AST parsing
-devops    : Git/GitHub, Docker, Linux, Bash/ZSH
-embedded  : Arduino
+# Girja Shankar
 
-girja@github:~$ cat now.txt
-building  : safe-Go-app, xBOM-system, AI-Hallucination-Detector-2.0
-learning  : DSA, core CS concepts, Go, MERN stack
-```
+`whoami` · Computer science student building tools for dependency analysis, travel safety, and more reliable LLM output.
 
+<<<<<<< HEAD
 ```console
 girja@github:~$ cat contact.txt
 ```
  [`linkedin`](https://www.linkedin.com/in/girja-s-364230295/)
+=======
+## Projects
+
+- **[xBOM](https://github.com/girjashankar01/xBOM-system)** builds software and cryptography inventories from source repositories.
+- **[SafeGo](https://github.com/girjashankar01/safe-Go-app)** sends SOS alerts and shares live location with trusted contacts.
+- **[AI Hallucination Detector](https://github.com/girjashankar01/AI-Hallucination-Detector-2.0)** checks LLM answers against retrieved evidence for unsupported claims and contradictions.
+
+## Stack
+
+**Languages** · C++, Python, JavaScript  
+**Backend & data** · Node.js, Express, Socket.IO, PostgreSQL, PostGIS  
+**Infra** · Git, Linux  
+**ML** · Ollama, embeddings, ChromaDB
+
+**Learning** · Go, data structures and algorithms, CS fundamentals, MERN
+
+[LinkedIn](https://www.linkedin.com/in/girja-s-364230295/)
+>>>>>>> 00a1b64 (update)
