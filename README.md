@@ -1,5 +1,4 @@
 <img src="./assets/banner.webp" alt="A hooded traveler holds a lantern above a misty valley under a pale moon.">
----
 
 `whoami` · Computer science student building tools for dependency analysis, travel safety, and more reliable LLM output.
 
