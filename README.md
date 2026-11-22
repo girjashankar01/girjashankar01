@@ -12,11 +12,11 @@
 
 ## Stack
 
-**Languages** · C++, Python, JavaScript  
-**Backend & data** · Node.js, Express, Socket.IO, PostgreSQL, PostGIS  
-**Infra** · Git, Linux  
-**ML** · Ollama, embeddings, ChromaDB
+**Languages** · C, C++, Python, JavaScript, Bash/ZSH
+**Backend & data** · Node.js, Express, PostgreSQL, PostGIS  
+**Tools** · Git, Linux  
+**ML/Agentic** · VectorDB(ChromaDB), RAG, Embeddings
 
-**Learning** · Go, data structures and algorithms, CS fundamentals, MERN
+**Learning** · Data Structures and algorithms, CS fundamentals, Go, MERN
 
 [LinkedIn](https://www.linkedin.com/in/girja-s-364230295/)
