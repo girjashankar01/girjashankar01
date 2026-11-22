@@ -4,12 +4,6 @@
 
 `whoami` · Computer science student building tools for dependency analysis, travel safety, and more reliable LLM output.
 
-<<<<<<< HEAD
-```console
-girja@github:~$ cat contact.txt
-```
- [`linkedin`](https://www.linkedin.com/in/girja-s-364230295/)
-=======
 ## Projects
 
 - **[xBOM](https://github.com/girjashankar01/xBOM-system)** builds software and cryptography inventories from source repositories.
@@ -26,4 +20,3 @@ girja@github:~$ cat contact.txt
 **Learning** · Go, data structures and algorithms, CS fundamentals, MERN
 
 [LinkedIn](https://www.linkedin.com/in/girja-s-364230295/)
->>>>>>> 00a1b64 (update)
